@@ -247,9 +247,9 @@
 		"text": "你是夜猫子呀？这么晚还不睡觉，明天起的来嘛？"
 	}],
 	"message": {
-		"default": ["好久不见，日子过得好快呢……", "大坏蛋！你都多久没理人家了呀，嘤嘤嘤～", "嗨～快来逗我玩吧！", "拿小拳拳锤你胸口！", "记得把小家加入收藏夹哦！"],
-		"console": "哈哈，你打开了控制台，是想要看看我的小秘密吗？",
-		"copy": "你都复制了些什么呀，转载要记得加上出处哦！",
-		"visibilitychange": "哇，你终于回来了～"
+		"default": ["Long time no see, life flies so fast……", "the big bad wolf! How long has it been since you last talked to her, whimper whimper whimper～", "Hi~Come and play with me!", "Hammer your chest with small fists!", "Remember to add Xiaojia to your favorites!"],
+		"console": "Haha, did you open the console to see my little secret？",
+		"copy": "What have you copied? Remember to include the source when reprinting！",
+		"visibilitychange": "Wow, you're finally back～"
 	}
 }
